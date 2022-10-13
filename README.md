@@ -7,7 +7,7 @@ Lastly, the third argument,threshold, also an integer, will determines whether t
 that if abs(z) > threshold, true is stored and vice versa.
 Given the appropriate arguments, MandelBrot returns a figure that's saved onto your computer that will display the mandelbrot fractal
 
-##markov_chain.py
+## markov_chain.py
 
 markov_chain is a function that takes the integer n, which allows the function to create an n by 1 dimension vector, P. 
 P's elements are randomly generated  and rescaled so that its sum adds up to 1.
