@@ -1,4 +1,4 @@
-# AMS-325-Homework-4
+# AMS-325 MandelBrot-and-MarkovChain
 ## MandelBrot.py
 The MandelBrot function takes in the first argument, n, an integer, which determines how many points we want in our graph.
 Usually, the greater the n, the more detailed the figure is.
